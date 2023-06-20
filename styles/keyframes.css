@@ -1,0 +1,34 @@
+@keyframes fish {
+	from {right: 0px }
+	to {right: 1000px}
+}
+
+@keyframes fish1 {
+0% {right: 400px;}
+50%{right: 800px;}
+100%{right: 1550px;}
+}
+
+@keyframes plant {
+	from {left: 800px}
+	to {left: 810px}
+}
+@keyframes plant2 {
+	from {left: 100px}
+	to {left: 110px}
+}
+
+@keyframes fish2 {
+	from {left: 0px}
+	to {left: 700px}
+}
+@keyframes medusa {
+	10% {bottom: 50px;}
+	50% {bottom: 90px;}
+	100% {bottom: 150px;}
+}
+@keyframes submarine {
+	0%{ left: 200px;}
+	50%{left: 1000px;}
+	100%{left: 1550px;}
+}
